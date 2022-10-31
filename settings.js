@@ -13,10 +13,10 @@ global.APIKeys = {
 }
 
 // setting 
-global.autoread = false // auto read message
+global.autoread = true // auto read message
 global.autobio = true 
 global.userRegister = false 
-global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
+global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
 
 //language
 //Available in indonesia , english & spanyol 
@@ -26,30 +26,30 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Ranzz-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ AhmadOfcོ ×፝֟͜×" //nama kalian
-global.myweb ="https://github.com/RanzzNation" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ahmadstoreeee" //bebas asal jan hapus
-global.myweb2 = "https://instagram.com/ahmadstoreeee?igshid=MDE2OWE1N2Q=" //bebas
-global.email = "storeahmad362@gmail.com" //bebas
+global.botname = "「𝑺𝒉𝒖𝒓𝒂𝒏𝑩𝑶𝑻𝒁 」" //namabot kalian
+global.ownername= "𝙎𝙪𝙧𝙖𝙣𝙩𝙖 𝘼𝙙" //nama kalian
+global.myweb ="-" //bebas asal jan hapus
+global.youtube = "-" //bebas asal jan hapus
+global.myweb2 = "-" //bebas
+global.email = "-" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6289697155781'] //premium user
-global.owner = ["6289697155781","6289697155781"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6289697155781" // nomor wa kalian
-global.ownernomerr = "+6289697155781" //nmr wa kalian
+global.premium = ['6281271010619'] //premium user
+global.owner = ["6281271010619"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6281271010619" // nomor wa kalian
+global.ownernomerr = "+6281271010619" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
-global.donasi = "./image/donasi.jpg" // foto donasi di folder image
-global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
+global.donasi = "-" // foto donasi di folder image
+global.background_welcome="https://textpro.me/images/user_image/2022/11/63601bc662195.jpg-s1041-b1" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Ranzz-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh RanzzOfc' //sticker wm ganti nama kalian
+global.packname = '© 𒈞sнuʀᴀɴʙoтz𒈞' //sticker wm ubah
+global.author = 'Di Buat Oleh Suranta AD' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
 global.limitawal = {
     premium: "10000",
-    free: 100
+    free: 200
 }
 
 global.adventureRPG = 'https://telegra.ph/file/ff94536d69e0f4f3e7b54.jpg'
